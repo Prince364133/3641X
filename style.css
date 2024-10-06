@@ -1,0 +1,124 @@
+body {
+  background-color: #a3d5d3;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  font-family: cursive;
+}
+
+h2 {
+  color: purple;
+  font-family: fantasy;
+}
+
+h3 {
+  text-align: center;
+  color: orange;
+  font-family: monospace;
+  text-decoration: underline;
+}
+
+p {
+  text-align: justify;
+}
+
+ul {
+  margin-left: 30px;
+  width: 300px;
+  overflow: auto;
+}
+
+ol {
+  overflow: auto;
+  width: 300px;
+}
+
+th {
+  background-color: orange;
+}
+
+.subsystems {
+  background-color: red;
+}
+
+.oculomotor {
+  background-color: green;
+}
+
+.fixation {
+  background-color: yellow;
+}
+
+.head {
+  background-color: orange;
+}
+
+#muscles-sidebar {
+  background: grey;
+  font-family: monospace;
+  float: right;
+  border: 2px solid red;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+#muscles-pic {
+  float: left;
+  margin-right: 10px;
+}
+
+#sac-pic {
+  float: left;
+  margin-right: 10px;
+}
+
+#microsac-pic {
+  float: left;
+  margin-right: 10px;
+}
+
+#vesti-pic {
+  float: right;
+  margin-right: 400px;
+  padding-left: 20px;
+}
+
+#head-sys {
+  margin-top: 120px;
+}
+
+#fix-sys {
+  margin-top: 70px;
+}
+
+#oculomotor-info {
+  margin-top: 50px;
+  width: 800px;
+}
+
+#fix-info {
+  margin-top: 50px;
+  margin-left: 80px;
+  width: 700px;
+}
+
+#head-info {
+  width: 500px;
+}
+
+.three-fix {
+  float: right;
+  margin-right: 100px;
+  margin-top: 15px;
+}
+
+#ocul-whole {
+  padding-left: 150px;
+}
+
+#head-whole {
+  padding-left: 300px;
+}
